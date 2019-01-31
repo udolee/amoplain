@@ -1,0 +1,29 @@
+label: Menu editor - Full
+type: structure
+style: table
+fields:
+  image:
+    label: image
+    type: image
+  title:
+    label: Title
+    type: text
+  description:
+    label: Description
+    type: textarea
+  page:
+    label: Page
+    type: page
+  target:
+    label: Target
+    type: select
+    options:
+      _blank: _blank
+  rel:
+    label: Rel
+    type: select
+    options:
+      nofollow: nofollow
+  class:
+    label: Class
+    type: text

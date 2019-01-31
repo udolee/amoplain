@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1485868562-7f19
+
+----
+
+Txn-date: 1485868562
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/point-of-origin::men::s
+  sku: "005"
+  uri: shop/minimal/point-of-origin
+  name: Point of Origin
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

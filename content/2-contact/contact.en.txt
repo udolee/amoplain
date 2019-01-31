@@ -1,0 +1,59 @@
+Title: Contact
+
+----
+
+Text: 
+
+## Customer
+
+Please feel free to contact with any questions at (email: customer@amoshop.com text: customer@amoshop.com).
+
+## Wholesale
+
+Amoshop products are available for wholesale. Please feel free to contact (email: sales@amoshop.com text: sales@amoshop.com) with your information.
+
+## Submission
+
+Please feel free to contact (email: submissions@amoshop.com text: submissions@amoshop.com) include your information.
+
+## Press
+
+Please feel free to contact (email: press@amoshop.com text: press@amoshop.com) include your information, request, link to website.
+
+## Studio
+
+Amoshop Lmt. Sti
+
+Alisveris Mah. Dukkan Sok. 
+Magaza City, Turkey 
+34500
+
+(email: contact@amoshop.com text: contact@amoshop.com)
+
+----
+
+Phone: 
+
+----
+
+Email: 
+
+----
+
+Location: 
+
+----
+
+Hours: 
+
+----
+
+Slider: 
+
+----
+
+My-menu: 
+
+- 
+  title: About
+  page: about

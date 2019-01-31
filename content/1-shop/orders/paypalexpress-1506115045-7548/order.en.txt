@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1506115045-7548
+
+----
+
+Txn-date: 1506115045
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/triangulum::men::s
+  sku: "006"
+  uri: shop/minimal/triangulum
+  name: Triangulum
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

@@ -1,0 +1,80 @@
+title: Site options
+pages: true
+  template:
+    - default
+fields:
+  title:
+    extends: title
+    label: Site name
+  LogoSetting:
+    label: Logo and Placeholder Settings
+    type: headline
+  logo:
+    label: Site logo
+    type:  image
+    width: 1/2
+  placeholder:
+    label: Placeholder photo
+    help: For products and pages that don't have a photo
+    type:  image
+    width: 1/2
+  socialSetting:
+    label: Social Links Setting
+    type: headline
+  social:
+    label: Social Links
+    type: structure
+    style: table
+    entry: >
+      {{social_name}}
+    fields:
+      social_name:
+        label: Name
+        type: text
+        icon: share-alt
+      social_icon:
+        label: Icon (SVG)
+        type: select
+        options: images
+      social_url:
+        label: URL
+        type: url
+  menuSetting:
+    label: Menu Setting
+    type: headline
+  top_menu:
+    label: Top Menu
+    help: This menu will appear head of the site.
+    extends: menu_minimal
+  footerSetting:
+    label: Footer Setting
+    type: headline
+  email:
+    label: Email
+    help: This menu will appear footer of the site.
+    type: email
+    autocomplete: false
+    width: 1/2
+  copyright:
+    label: Copyright
+    type: text
+    icon: copyright
+    width: 1/2
+  footerMenuTitle:
+    label: Footer Menu Title
+    type: text
+    icon: font
+  footer_menu:
+    label: Footer Menu
+    help: This menu will appear bottom of the site.
+    extends: menu_minimal
+
+
+
+
+
+
+
+
+
+  

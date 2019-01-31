@@ -1,0 +1,71 @@
+Txn-id: paypalexpress-1481842581-6230
+
+----
+
+Txn-date: 1481842581
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: paid
+
+----
+
+Products: 
+
+- 
+  id: shop/t-shirts/papers::men::s
+  sku: "002"
+  uri: shop/t-shirts/papers
+  name: Papers
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: Ground shipping
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00
+
+----
+
+Payer-id: aristotheme
+
+----
+
+Payer-name: Levent Usta
+
+----
+
+Payer-email: aristotheme@gmail.com
+
+----
+
+Payer-address: Countries

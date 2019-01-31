@@ -1,0 +1,55 @@
+Txn-id: stripecheckout-1500421046-7b5e
+
+----
+
+Txn-date: 1500421046
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/point-of-origin::men::s
+  sku: "005"
+  uri: shop/minimal/point-of-origin
+  name: Point of Origin
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 2
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 90.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 16.20
+
+----
+
+Giftcertificate: 0.00

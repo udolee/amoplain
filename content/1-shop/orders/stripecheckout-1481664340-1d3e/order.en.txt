@@ -1,0 +1,63 @@
+Txn-id: stripecheckout-1481664340-1d3e
+
+----
+
+Txn-date: 1481664340
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: shipped
+
+----
+
+Products: 
+
+- 
+  id: shop/t-shirts/papers::men::s
+  sku: "002"
+  uri: shop/t-shirts/papers
+  name: Papers
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Tax: 0.00
+
+----
+
+Giftcertificate: 0.00
+
+----
+
+Payer-id: demo
+
+----
+
+Payer-name: Ardi Gorgo
+
+----
+
+Payer-email: demo@demo.com
+
+----
+
+Payer-address: Turkey

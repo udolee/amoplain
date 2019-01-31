@@ -1,0 +1,8 @@
+title: Page
+pages: false
+fields:
+  title: title
+  subtitle:
+    label: Subtitle
+    type: text
+  text: markdown

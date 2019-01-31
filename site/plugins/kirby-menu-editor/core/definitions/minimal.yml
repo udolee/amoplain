@@ -1,0 +1,10 @@
+label: Menu editor - Minimal
+type: structure
+style: table
+fields:
+  title:
+    label: Title
+    type: text
+  page:
+    label: Page
+    type: page

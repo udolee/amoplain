@@ -1,0 +1,86 @@
+Title: Shop
+
+----
+
+Text: 
+
+----
+
+Shipping: 
+
+- 
+  method: FedEx Express
+  countries: all-countries
+  flat: "150"
+  item: ""
+  weight: ""
+  price: '10.00 : 5.00'
+  calculation: low
+- 
+  method: UPS Worldport
+  countries: all-countries
+  flat: "220"
+  item: ""
+  weight: ""
+  price: '120.00 : 0.00'
+  calculation: low
+
+----
+
+Tax: 
+
+- 
+  rate: "0.18"
+  countries: all-countries
+
+----
+
+Paylater: admin
+
+----
+
+Mailing-address: 1
+
+----
+
+Currency-code: USD
+
+----
+
+Currency-symbol: $
+
+----
+
+Currency-position: before
+
+----
+
+Featured: 
+
+- 
+  product: forme-for-me
+  calculation: low
+
+----
+
+Slider: 
+
+----
+
+Discount-codes: 
+
+----
+
+Notifications: 
+
+----
+
+Gift-certificates: 
+
+- 
+  code: GIFT2017
+  amount: "20"
+
+----
+
+Error-email: 

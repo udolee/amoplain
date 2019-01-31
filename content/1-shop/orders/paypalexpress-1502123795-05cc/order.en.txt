@@ -1,0 +1,71 @@
+Txn-id: paypalexpress-1502123795-05cc
+
+----
+
+Txn-date: 1502123795
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/less-is-more::men::xl
+  sku: "001"
+  uri: shop/simplicity/less-is-more
+  name: Less is More
+  variant: men
+  option: xl
+  amount: "45"
+  sale_amount: "15"
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 15.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 2.70
+
+----
+
+Giftcertificate: 0.00
+
+----
+
+Payer-id: giokeygmailcom
+
+----
+
+Payer-name: George Kitsos
+
+----
+
+Payer-email: giokey@gmail.com
+
+----
+
+Payer-address: Greece

@@ -1,0 +1,55 @@
+Txn-id: stripecheckout-1497817417-57f2
+
+----
+
+Txn-date: 1497817417
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/gradient-01::men::s
+  sku: "003"
+  uri: shop/simplicity/gradient-01
+  name: Gradient 01
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

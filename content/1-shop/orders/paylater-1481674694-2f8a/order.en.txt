@@ -1,0 +1,71 @@
+Txn-id: paylater-1481674694-2f8a
+
+----
+
+Txn-date: 1481674694
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/t-shirts/less-is-more::men::s
+  sku: "001"
+  uri: shop/t-shirts/less-is-more
+  name: Less is More
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: "14"
+  quantity: 5
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 70.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: Ground shipping
+
+----
+
+Tax: 12.60
+
+----
+
+Giftcertificate: 0.00
+
+----
+
+Payer-id: demo
+
+----
+
+Payer-name: Ardi Gorgo
+
+----
+
+Payer-email: demo@demo.com
+
+----
+
+Payer-address: Turkey

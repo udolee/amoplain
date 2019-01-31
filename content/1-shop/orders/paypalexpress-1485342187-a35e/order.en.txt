@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1485342187-a35e
+
+----
+
+Txn-date: 1485342187
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/triangulum::men::l
+  sku: "006"
+  uri: shop/minimal/triangulum
+  name: Triangulum
+  variant: men
+  option: l
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

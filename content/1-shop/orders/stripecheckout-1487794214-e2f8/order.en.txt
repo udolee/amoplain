@@ -1,0 +1,55 @@
+Txn-id: stripecheckout-1487794214-e2f8
+
+----
+
+Txn-date: 1487794214
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/papers::men::s
+  sku: "002"
+  uri: shop/simplicity/papers
+  name: Papers
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

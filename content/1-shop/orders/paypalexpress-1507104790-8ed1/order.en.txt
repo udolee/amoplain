@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1507104790-8ed1
+
+----
+
+Txn-date: 1507104790
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/papers::men::l
+  sku: "002"
+  uri: shop/simplicity/papers
+  name: Papers
+  variant: men
+  option: l
+  amount: "45"
+  sale_amount: ""
+  quantity: 2
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 90.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 16.20
+
+----
+
+Giftcertificate: 0.00

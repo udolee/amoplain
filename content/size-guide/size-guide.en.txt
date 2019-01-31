@@ -1,0 +1,91 @@
+Title: Size Guide
+
+----
+
+Text: 
+
+Example:
+
+Men - 180cm (5’11) / Size L
+
+Women - 170cm (5’7) / Size M
+
+----
+
+Slider: 
+
+----
+
+Relatedproducts: 
+
+----
+
+Threecoltableheadone: cm (inches)
+
+----
+
+Threecoltableheadtwo: S
+
+----
+
+Threecoltableheadthree: M
+
+----
+
+Threecoltablebody: 
+
+- 
+  table_col_1: Chest
+  table_col_2: 46 (18)
+  table_col_3: 48 (19)
+
+----
+
+Threecoltableheadfour: L
+
+----
+
+Threecoltableheadfive: XL
+
+----
+
+Fivecoltableheadone: cm (inches)
+
+----
+
+Fivecoltableheadtwo: S
+
+----
+
+Fivecoltableheadthree: M
+
+----
+
+Fivecoltableheadfour: L
+
+----
+
+Fivecoltableheadfive: XL
+
+----
+
+Fivecoltablebody: 
+
+- 
+  table_col_1: Chest
+  table_col_2: 46 (18)
+  table_col_3: 48 (19)
+  table_col_4: 51 (20)
+  table_col_5: 53 (21)
+- 
+  table_col_1: Length
+  table_col_2: 64 (25)
+  table_col_3: 67 (26.5)
+  table_col_4: 70 (27.5)
+  table_col_5: 73 (28.5)
+- 
+  table_col_1: Sleeve
+  table_col_2: 17 (6.5)
+  table_col_3: 18 (7)
+  table_col_4: 19 (7.5)
+  table_col_5: 20 (8)

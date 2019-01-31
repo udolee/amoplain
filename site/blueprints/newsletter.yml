@@ -1,0 +1,16 @@
+title: Newletter
+pages: true
+files: false
+fields:
+  title: title
+  subscriber:
+      label: Subscriber
+      type: structure
+      style: table
+      entry: >
+        {{email}}
+      fields:
+        email:
+          label: Email
+          type: text
+          icon: envelope

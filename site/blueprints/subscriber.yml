@@ -1,0 +1,8 @@
+title: Page
+pages: false
+files: false
+fields:
+  email:
+      label: Email
+      type: email
+      autocomplete: false

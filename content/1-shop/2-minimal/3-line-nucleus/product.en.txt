@@ -1,0 +1,99 @@
+Tab1: 
+
+----
+
+Title: Line Nucleus
+
+----
+
+Brand: Vertigo
+
+----
+
+Text: 
+
+A design depicting short pulse (dot) and a long pulse (dash) of Morse Code. The shortest symbols are associated with the most frequently used characters of the English alphabet — E and T — which are represented by a single dot and dash, respectively. The T-shirt is unisex fine jersey T-shirt with characteristic soft feel and comfortable fit.
+
+Vertigo is an independent graphic design studio based in Melbourne, Australia. They work on creative projects that include Brand Identity, Print Design, and Publication Design. Vertigo was founded in 2013 by creative directors Mirella Marie and Nicolas Collerson.
+
+----
+
+Variants: 
+
+- 
+  name: Men
+  price: "45"
+  sku: "007"
+  weight: ""
+  stock: ""
+  options: S,M,L,XL
+  description: ""
+  sale_price: ""
+  sale_start: ""
+  sale_end: ""
+  sale_codes: ""
+  download_files: ""
+  download_days: ""
+
+----
+
+Tags: minimalist,t-shirt
+
+----
+
+Relatedproducts: 
+
+----
+
+Tab2: 
+
+----
+
+Noshipping: 0
+
+----
+
+Tax: 
+
+----
+
+Designer: Vertigo
+
+----
+
+Type: Unisex
+
+----
+
+Fabric: 4.1 oz / 100% Cotton
+
+----
+
+Fourcoltableheadone: Areas
+
+----
+
+Fourcoltableheadtwo: Methods
+
+----
+
+Fourcoltableheadthree: Rates
+
+----
+
+Fourcoltableheadfour: Delivery days
+
+----
+
+Fourcoltablebody: 
+
+- 
+  table_col_1: International
+  table_col_2: Economy mail
+  table_col_3: €8
+  table_col_4: 5-14 days
+- 
+  table_col_1: International
+  table_col_2: Express mail
+  table_col_3: €15
+  table_col_4: 3-7 days

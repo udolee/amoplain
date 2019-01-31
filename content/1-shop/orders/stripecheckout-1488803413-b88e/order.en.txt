@@ -1,0 +1,55 @@
+Txn-id: stripecheckout-1488803413-b88e
+
+----
+
+Txn-date: 1488803413
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/forme-for-me::men::m
+  sku: "003"
+  uri: shop/minimal/forme-for-me
+  name: Forme / For me
+  variant: men
+  option: m
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

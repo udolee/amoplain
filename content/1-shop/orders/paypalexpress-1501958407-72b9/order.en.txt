@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1501958407-72b9
+
+----
+
+Txn-date: 1501958407
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/point-of-origin::men::xl
+  sku: "005"
+  uri: shop/minimal/point-of-origin
+  name: Point of Origin
+  variant: men
+  option: xl
+  amount: "45"
+  sale_amount: ""
+  quantity: 2
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 90.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 16.20
+
+----
+
+Giftcertificate: 0.00

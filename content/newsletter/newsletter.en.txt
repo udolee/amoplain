@@ -1,0 +1,62 @@
+Title: Newsletter
+
+----
+
+Subscriber: 
+
+- 
+  email: aristotheme@gmail.com
+- 
+  email: levent@aristotheme.com
+- 
+  email: usta@aristitheme.com
+- 
+  email: asdad@sdfsdaf.com
+- 
+  email: bakkal@bakkal.com
+- 
+  email: market@market.com
+- 
+  email: super@super.com
+- 
+  email: oldumu@oldumu.com
+- 
+  email: dimi@dimi.com
+- 
+  email: evet@evet.com
+- 
+  email: erem@erem.com
+- 
+  email: noldu@noldu.com
+- 
+  email: asdad@af.com
+- 
+  email: fddsf@aff.com
+- 
+  email: asdsad@fasf.com
+- 
+  email: sfd@dfsf.com
+- 
+  email: jhjhh@hghjg.com
+- 
+  email: Yo@yo.com
+- 
+  email: Ocapat33@einrot.com
+- 
+  email: Ocapat33@einrot.com
+- 
+  email: Ocapat33@einrot.com
+- 
+  email: Ocapat33@einrot.com
+- 
+  email: admin@email.com
+- 
+  email: dsds@gfsfdgdfg.de
+- 
+  email: giokey@gmail.com
+- 
+  email: giokey@gmail.com
+- 
+  email: emmit@ouicosette.com
+- 
+  email: enginmurat@hotmail.com

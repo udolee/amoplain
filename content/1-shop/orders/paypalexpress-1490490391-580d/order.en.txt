@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1490490391-580d
+
+----
+
+Txn-date: 1490490391
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/less-is-more::men::m
+  sku: "001"
+  uri: shop/simplicity/less-is-more
+  name: Less is More
+  variant: men
+  option: m
+  amount: "45"
+  sale_amount: "15"
+  quantity: 2
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 30.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 5.40
+
+----
+
+Giftcertificate: 0.00

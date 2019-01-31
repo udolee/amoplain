@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1484602388-d4ad
+
+----
+
+Txn-date: 1484602388
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/center-axis::men::l
+  sku: "008"
+  uri: shop/minimal/center-axis
+  name: Center Axis
+  variant: men
+  option: l
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

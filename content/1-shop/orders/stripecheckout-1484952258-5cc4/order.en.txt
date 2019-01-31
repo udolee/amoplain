@@ -1,0 +1,68 @@
+Txn-id: stripecheckout-1484952258-5cc4
+
+----
+
+Txn-date: 1484952258
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/simplicity/papers::men::s
+  sku: "002"
+  uri: shop/simplicity/papers
+  name: Papers
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+- 
+  id: shop/minimal/point-of-origin::men::xl
+  sku: "005"
+  uri: shop/minimal/point-of-origin
+  name: Point of Origin
+  variant: men
+  option: xl
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 90.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 220
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 16.20
+
+----
+
+Giftcertificate: 0.00

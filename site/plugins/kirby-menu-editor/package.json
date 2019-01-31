@@ -1,0 +1,8 @@
+{
+  "name": "kirby-menu-editor",
+  "description": "A menu editor for simple menus in Kirby CMS",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.2",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

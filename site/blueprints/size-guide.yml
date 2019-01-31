@@ -1,0 +1,58 @@
+title: Size Guide
+pages: false
+files: false
+fields:
+  title: title
+  sizeSettings:
+    label: T-Shirt Size Table
+    type: headline
+  fiveColTableHeadOne:
+    label: Table head col 1
+    type:  text
+    width: 1/5
+  fiveColTableHeadTwo:
+    label: Table head col 2
+    type:  text
+    width: 1/5
+  fiveColTableHeadThree:
+    label: Table head col 3
+    type:  text
+    width: 1/5
+  fiveColTableHeadFour:
+    label: Table head col 4
+    type:  text
+    width: 1/5
+  fiveColTableHeadFive:
+    label: Table head col 3
+    type:  text
+    width: 1/5
+  fivecoltablebody:
+    label: 5-Col table body
+    type: structure
+    style: table
+    entry: >
+      {{table-col-1}}<br />
+      {{table-col-2}}<br />
+      {{table-col-3}}<br />
+      {{table-col-4}}<br />
+      {{table-col-5}}
+    fields:
+      table-col-1:
+        label: Table body col 1
+        type: text
+      table-col-2:
+        label: Table body col 2
+        type: text
+      table-col-3:
+        label: Table body col 3
+        type: text
+      table-col-4:
+        label: Table body col 4
+        type: text
+      table-col-5:
+        label: Table body col 5
+        type: text
+  sizeNote:
+    label: Size Note
+    type: headline
+  text: markdown

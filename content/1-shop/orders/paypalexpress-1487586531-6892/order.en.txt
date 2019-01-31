@@ -1,0 +1,55 @@
+Txn-id: paypalexpress-1487586531-6892
+
+----
+
+Txn-date: 1487586531
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/maya-hieroglyphs::men::s
+  sku: "009"
+  uri: shop/minimal/maya-hieroglyphs
+  name: Maya Hieroglyphs
+  variant: men
+  option: s
+  amount: "14"
+  sale_amount: "45"
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 45.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: FedEx Express
+
+----
+
+Tax: 8.10
+
+----
+
+Giftcertificate: 0.00

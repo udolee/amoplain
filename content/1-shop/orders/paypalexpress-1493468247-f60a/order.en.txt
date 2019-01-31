@@ -1,0 +1,81 @@
+Txn-id: paypalexpress-1493468247-f60a
+
+----
+
+Txn-date: 1493468247
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/minimal/forme-for-me::men::m
+  sku: "003"
+  uri: shop/minimal/forme-for-me
+  name: Forme / For me
+  variant: men
+  option: m
+  amount: "45"
+  sale_amount: ""
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+- 
+  id: shop/minimal/maya-hieroglyphs::men::s
+  sku: "009"
+  uri: shop/minimal/maya-hieroglyphs
+  name: Maya Hieroglyphs
+  variant: men
+  option: s
+  amount: "14"
+  sale_amount: "45"
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+- 
+  id: shop/minimal/maya-hieroglyphs::men::m
+  sku: "009"
+  uri: shop/minimal/maya-hieroglyphs
+  name: Maya Hieroglyphs
+  variant: men
+  option: m
+  amount: "14"
+  sale_amount: "45"
+  quantity: 1
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 135.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 0.00
+
+----
+
+Shipping-method: UPS Worldport
+
+----
+
+Tax: 24.30
+
+----
+
+Giftcertificate: 0.00

@@ -1,0 +1,39 @@
+title: Page
+pages: false
+fields:
+  tab1:
+    label: General
+    type: tabs
+    icon: cog
+  title: title
+  tab2:
+    label: Payment
+    type: tabs
+    icon: cog
+  title2: title
+  text2: markdown
+  tab3:
+    label: Shipping
+    type: tabs
+    icon: cog
+  title3: title
+  text3: markdown
+  tab4:
+    label: Returns
+    type: tabs
+    icon: cog
+  title4: title
+  text4: markdown
+  tab5:
+    label: Damage and Loss
+    type: tabs
+    icon: cog
+  title5: title
+  text5: markdown
+  tab6:
+    label: Privacy Policy
+    type: tabs
+    icon: cog
+  title6: title
+  text6: markdown
+

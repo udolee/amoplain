@@ -1,0 +1,23 @@
+label: Menu editor
+type: structure
+style: table
+fields:
+  title:
+    label: Title
+    type: text
+  page:
+    label: Page
+    type: page
+  target:
+    label: Target
+    type: select
+    options:
+      _blank: _blank
+  rel:
+    label: Rel
+    type: select
+    options:
+      nofollow: nofollow
+  class:
+    label: Class
+    type: text

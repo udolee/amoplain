@@ -1,0 +1,55 @@
+Txn-id: stripecheckout-1481689061-6c9d
+
+----
+
+Txn-date: 1481689061
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+- 
+  id: shop/t-shirts/papers::men::s
+  sku: "002"
+  uri: shop/t-shirts/papers
+  name: Papers
+  variant: men
+  option: s
+  amount: "45"
+  sale_amount: ""
+  quantity: 2
+  weight: ""
+  noshipping: "0"
+  notax: 0
+
+----
+
+Subtotal: 90.00
+
+----
+
+Discount: 0.00
+
+----
+
+Shipping: 5.00
+
+----
+
+Shipping-method: Ground shipping
+
+----
+
+Tax: 16.20
+
+----
+
+Giftcertificate: 0.00

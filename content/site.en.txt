@@ -1,0 +1,117 @@
+Title: MR.COOL SHIRTS
+
+----
+
+Logo: logo.png
+
+----
+
+Placeholder: placeholder.png
+
+----
+
+Backgroundimage: 
+
+----
+
+Colorbase: #eeeeee
+
+----
+
+Coloraccent: #00a8e6
+
+----
+
+Colorlink: #0077dd
+
+----
+
+Backgroundcolor: #ffffff
+
+----
+
+Backgroundblur: 0
+
+----
+
+Social: 
+
+- 
+  social_name: Facebook
+  social_url: http://www.facebook.com
+  social_icon: facebook-letter-logo.svg
+- 
+  social_name: Twitter
+  social_url: http://www.twitter.com
+  social_icon: twitter-letter-logo.svg
+- 
+  social_name: Google Plus
+  social_url: http://www.googleplus.com
+  social_icon: google-logo.svg
+- 
+  social_name: Dribbble
+  social_icon: dribbble-logo.svg
+  social_url: http://www.dribbble.com
+
+----
+
+My-menu: 
+
+- 
+  title: Shop
+  page: shop
+- 
+  title: About
+  page: about
+- 
+  title: Contact
+  page: contact
+
+----
+
+Top-menu: 
+
+- 
+  title: Shop
+  page: shop
+- 
+  title: About
+  page: about
+- 
+  title: Contact
+  page: contact
+
+----
+
+Footer-menu: 
+
+- 
+  title: About
+  page: about
+- 
+  title: 'Payment & Shipping'
+  page: shop/terms-conditions
+- 
+  title: 'Terms & Conditions'
+  page: shop/terms-conditions
+- 
+  title: Wholesale
+  page: contact
+- 
+  title: Submission
+  page: contact
+- 
+  title: Contact
+  page: contact
+
+----
+
+Email: hello@email.com
+
+----
+
+Copyright: © Copyright 2016 Aristotheme.
+
+----
+
+Footermenutitle: Information

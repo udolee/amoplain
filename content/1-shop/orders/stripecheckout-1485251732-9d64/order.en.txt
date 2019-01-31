@@ -1,0 +1,35 @@
+Txn-id: stripecheckout-1485251732-9d64
+
+----
+
+Txn-date: 1485251732
+
+----
+
+Txn-currency: USD
+
+----
+
+Status: pending
+
+----
+
+Products: 
+
+
+
+----
+
+Subtotal: 0.00
+
+----
+
+Discount: 0.00
+
+----
+
+Tax: 0.00
+
+----
+
+Giftcertificate: 0.00
